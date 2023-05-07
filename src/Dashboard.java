@@ -38,7 +38,7 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Helvetica Neue", 1, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText(" DASHBOARD FOR USERS");
+        jLabel1.setText("DASHBOARD");
 
         booksAvailable.setBackground(new java.awt.Color(0, 204, 204));
         booksAvailable.setFont(new java.awt.Font("Helvetica Neue", 1, 13)); // NOI18N
